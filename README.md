@@ -2,7 +2,7 @@
 
 Use a diffusion model to separate the thermal Sunyaev-Zel'dovich effect from structured noise i.e., astrophysical foregrounds and instrumental uncertainties.
 
-This work closely follows the method described [here]([https://your-package-docs.com](https://arxiv.org/pdf/2302.05290).
+This work closely follows the method described [here]([https://your-package-docs.com](https://arxiv.org/pdf/2302.05290]).
 
 
 ## Data generation instructions
